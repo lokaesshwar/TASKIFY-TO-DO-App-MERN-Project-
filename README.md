@@ -1,3 +1,1 @@
-How about this tagline for Taskify:
-
-**"Taskify: Your Ultimate To-Do Companion, Simplifying Every Task."**
+"Taskify: Your Ultimate To-Do Companion, Simplifying Every Task. All code is presented inside the Workspace folder. Be sure to check and set up everything to get started!"
